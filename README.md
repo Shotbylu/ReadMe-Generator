@@ -9,14 +9,6 @@
 
 <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
-<p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
-
 #### Tired of editing GitHub Profile README with new features?
 
 This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
