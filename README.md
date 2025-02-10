@@ -54,14 +54,6 @@
 
 This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
 
-## 🚀 Demo
-
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
-</a>
-
-Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
-
 ## 🧐 Features
 
 Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
